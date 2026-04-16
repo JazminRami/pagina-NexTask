@@ -4,8 +4,8 @@
     error_reporting(E_ALL);
 
     $host = "127.0.0.1";
-    $usuario = "nexuser";   // usuario de MySQL
-    $password = "123456";    // contraseña
+    $usuario = "root";   // usuario de MySQL
+    $password = "";    // contraseña
     $bd = "nexTask";
 
     // Crea una nueva conexión a MySQL usando mysql
